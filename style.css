@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+:root {
+
+
+}
+
+footer {
+    background-color: rgba(128, 128, 128, 0.623)  ;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.288);
+    text-align: center;
+    font-size: 0.8;
+    padding: 5px;
+}
+
+footer a {
+    color:  rgba(0, 0, 255, 0.445) ;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: rgba(0, 128, 0, 0.349) ;
+}
